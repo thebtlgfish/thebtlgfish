@@ -1,1 +1,1 @@
-Hello Everybody, I am Andrew Okun otherwise known as Andok Or Bootlegg Fish. I Love Computers And I Am Currently Interested In Computer Science. I Am Currently Learning Python.
+Hello Everyone! My Name Is Andrew And I Am A Aspiring Python Developer. Make Sure To Check Out My Projects!
