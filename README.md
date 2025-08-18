@@ -10,3 +10,8 @@
 <br>
 <h1 align="center"> Projects I Have Made / Worked On </h1>
 <p align="center"> <a href="https://jsportal.netlify.app" target="_blank"> JSPortal </a> <br> <a href="https://github.com/thebtlgfish/SimpleBash" target="_blank"> Simple Bash </a></p>
+<br>
+<br>
+<br>
+<h1 align="center"> Follow Me </h1>
+<p align="center"> <a href="https://youtube.com/@Bootleg_fish" target="_blank" rel="noreferrer">  <img src="https://youtube.com/favicon.ico" width="75" height="75"> <a href="https://x.com/bootleg_fish" target="_blank" rel="noreferrer"><img src="https://abs.twimg.com/favicons/twitter.3.ico" width="75" height="75">
