@@ -9,4 +9,4 @@
 <br>
 <br>
 <h1 align="center"> Projects I Have Made / Worked On </h1>
-<p align="center"> <a href="https://jsportal.netlify.app" target="_blank"> JSPortal </a> </p>
+<p align="center"> <a href="https://jsportal.netlify.app" target="_blank"> JSPortal </a> <br> <a href="https://github.com/thebtlgfish/SimpleBash" target="_blank"> Simple Bash </a></p>
