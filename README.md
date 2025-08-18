@@ -1,5 +1,7 @@
 <h1 align="center"> Hey there, My name is Andrew </h1>
-<p align="center"> I am a tech nerd that loves computers a bit too much for his own good. currently focused on learning python / coding in bash.
+<p align="center"> I am a tech nerd that loves computers a bit too much for his own good. currently focused on learning python / coding in bash. </p>
+<br>
+<p align="center"> <a href="https://github.com/thebtlgfish" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Author-thebtlgfish-blue" width="250" height="250">
 <br>
 <br>
 <br>
