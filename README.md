@@ -23,3 +23,4 @@
 <h1 align="center"> Donate </h1>
 <p> Buy Me A Coffee <a href="https://buymeacoffee.com/bootlegfish" target="_blank" rel="noreferrer"> <img src="https://cdn.buymeacoffee.com/assets/homepage/meta/apple-icon-120x120.png" width="20" height="20"> </a>
 <p> Ethereum:0x52aC5706203bF85FE90A6c6b88cF70B89CA1fa7F</p>
+<p> Solana:Bkwt19Cd1bbheozKR1BXzY8RZAp2RfsDEXVz956Q8kFv</p>
