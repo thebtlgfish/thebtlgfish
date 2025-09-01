@@ -13,7 +13,7 @@
 <p align="center"> <a href="https://jsportal.netlify.app" target="_blank"> JSPortal </a> <br> <a href="https://github.com/thebtlgfish/SimpleBash" target="_blank"> Simple Bash </a> <br> <a href="https://github.com/thebtlgfish/hashing-decoder" target="_blank"> Hashing Decoder  </a> <br> <a href="https://github.com/thebtlgfish/wordlists-storage" target="_blank"> Wordlists Storage </a> </p>
 <br> <br> <br>
 <h1 align="center"> Follow Me </h1>
-<p align="center"> <a href="https://youtube.com/@Bootleg_fish" target="_blank" rel="noreferrer">  <img src="https://youtube.com/favicon.ico" width="75" height="75"> <a href="https://x.com/bootleg_fish" target="_blank" rel="noreferrer"><img src="https://abs.twimg.com/favicons/twitter.3.ico" width="75" height="75">
+<p align="center"> <a href="https://youtube.com/@Bootleg_fish" target="_blank" rel="noreferrer">  <img src="https://thebtlgfish.github.io/images/youtube144.png" width="75" height="75"> <a href="https://x.com/bootleg_fish" target="_blank" rel="noreferrer"><img src="https://abs.twimg.com/favicons/twitter.3.ico" width="75" height="75">
 <br> <br> <br>
 <h1 align="center"> Donate </h1>
 <p align="center"> <img src="https://ethereum.org/favicon.ico" width="15" height="15"> Ethereum: 0x52aC5706203bF85FE90A6c6b88cF70B89CA1fa7F</p>
