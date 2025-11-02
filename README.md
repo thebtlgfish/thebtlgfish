@@ -10,7 +10,7 @@
 <p align="center"> <a href="https://linux.org" target="_blank" rel="noreferer"> <img src="https://skillicons.dev/icons?i=linux" width="75" height="75"> </a> <a href="https://chromeos.google/" target="_blank" rel="noreferer"> <img src="https://chromeos.google/static/favicon.ico" width="75" height="75"></p>
 <br> <br> <br>
 <h1 align="center"> Projects I Have Made / Worked On </h1>
-<p align="center"> <a href="https://jsportal.netlify.app" target="_blank"> JSPortal </a> <br> <a href="https://github.com/thebtlgfish/SimpleBash" target="_blank"> Simple Bash </a> <br> <a href="https://github.com/thebtlgfish/hashing-decoder" target="_blank"> Hashing Decoder  </a> <br> <a href="https://github.com/thebtlgfish/wordlists-storage" target="_blank"> Wordlists Storage </a> </p>
+<p align="center"> <a href="https://jsportal.netlify.app" target="_blank"> JSPortal </a> <br> <a href="https://github.com/thebtlgfish/SimpleBash" target="_blank"> Simple Bash </a> <br> <a href="https://github.com/thebtlgfish/hashing-decoder" target="_blank"> Hashing Decoder  </a> <br> <a href="https://github.com/thebtlgfish/wordlists-storage" target="_blank"> Wordlists Storage </a> <br> <a href="https://github.com/thebtlgfish/cyberfish-discord-bot" target="_blank"> CyberFish Discord Bot </a> <br> <a href="https://github.com/thebtlgfish/ytsearchpy" target="_blank"> YTSEARCHPY </a> </p>
 <br> <br> <br>
 <h1 align="center"> Follow Me </h1>
 <p align="center"> <a href="https://youtube.com/@Bootleg_fish" target="_blank" rel="noreferrer">  <img src="https://thebtlgfish.github.io/images/youtube144.png" width="75" height="75"> <a href="https://x.com/bootleg_fish" target="_blank" rel="noreferrer"><img src="https://abs.twimg.com/favicons/twitter.3.ico" width="75" height="75">
