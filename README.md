@@ -1,17 +1,9 @@
-<h2> Andrew Okun </h2>
-<p> Computer Science Enthusiast Making Things On The Internet</p>
-<p align="center"> <img src="https://i.pinimg.com/originals/7d/b7/2f/7db72f28c0799fe4183b68598483963f.gif"> </p>
+<h1> Hey, I'm bootlegfish </h1>
+<p>
+  I <em> love </em> computers, movies, video games and poker.
+</p>
 
-```
-██████╗  ██████╗  ██████╗ ████████╗██╗     ███████╗ ██████╗     ███████╗██╗███████╗██╗  ██╗
-██╔══██╗██╔═══██╗██╔═══██╗╚══██╔══╝██║     ██╔════╝██╔════╝     ██╔════╝██║██╔════╝██║  ██║
-██████╔╝██║   ██║██║   ██║   ██║   ██║     █████╗  ██║  ███╗    █████╗  ██║███████╗███████║
-██╔══██╗██║   ██║██║   ██║   ██║   ██║     ██╔══╝  ██║   ██║    ██╔══╝  ██║╚════██║██╔══██║
-██████╔╝╚██████╔╝╚██████╔╝   ██║   ███████╗███████╗╚██████╔╝    ██║     ██║███████║██║  ██║
-╚═════╝  ╚═════╝  ╚═════╝    ╚═╝   ╚══════╝╚══════╝ ╚═════╝     ╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝
-                                                                                           
 
-```
 
 
 ```python
@@ -19,10 +11,17 @@ bootlegfish = {
     "name": "Andrew Okun",
     "pronouns": ["he", "him"],
     "languages": ["Python", "Bash", "HTML", "CSS"],
+    "website":  "https://andrewokun.vercel.app",
     "askMeAbout": [
         "web development",
         "linux",
         "python"
     ],
+    "interests":[
+        "CS",
+        "Video Games",
+        "Movies",
+        "Poker"
+    ]
 }
 ```
